@@ -13,3 +13,7 @@ const getAverage = marks => {return Math.floor(marks.reduce((a,b) => a+b) / (mar
 //Sort and Star
 
 const twoSort = s => {return s.sort().shift().split('').join('***')}
+
+// Enumerable magic #1 - True for all?
+
+const all = (arr,fun) => {return arr.every(fun)};
