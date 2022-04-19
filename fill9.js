@@ -1,0 +1,3 @@
+// No Loops 2 - You only need one
+
+const check = (a,x) => a.includes(x) ? true : false;
