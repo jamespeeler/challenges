@@ -1,2 +1,1 @@
-# This is where I store all my daily coding challenges
-
+# This is where I store all my coding challenge solutions!
