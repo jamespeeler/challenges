@@ -5,4 +5,4 @@ function lovefunc(flower1, flower2){
     return (flower1 + flower2) % 2 !== 0
 }
 //(1, 4) should return true
-//(1, 3) should return false
+//(1, 3) should return false 
